@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "web1 vs web2 vs web3"
-categories: [web1,  web2, web3]
+categories: [web1, web2, web3]
 ---
 
 ## 1. web 1.0
